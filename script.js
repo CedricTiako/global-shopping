@@ -156,7 +156,7 @@ function showStats(index) {
 // Fonction pour envoyer un message WhatsApp
 function sendMessage(message) {
     const encodedMessage = encodeURIComponent(message);
-    const whatsappURL = `https://wa.me/237652257129?text=${encodedMessage}`;
+    const whatsappURL = `https://wa.me/237679214366?text=${encodedMessage}`;
     window.open(whatsappURL, '_blank');
 }
 
